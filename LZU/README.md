@@ -4,7 +4,7 @@
 
 ## 使用
 
-lzuspider [OPTIONS]
+python lzuspider [OPTIONS]
 
 * -i  国际处
 * -a  学术讲座
